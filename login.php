@@ -1,4 +1,3 @@
-
 <?php
 require "header.php";
 $data=file_get_contents("php://input");
